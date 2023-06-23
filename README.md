@@ -1,4 +1,4 @@
-# FractalShapes2
+# Fractal Shapes
 Fun with Fractal Shapes on OpenGL!
 ![Fractal3](https://github.com/juandiegovil/FractalShapes2/assets/66028457/879cbc1f-29f6-4ae4-9621-d31fd89c6351)
 
